@@ -1,0 +1,272 @@
+INFORMACION GENERAL
+
+¿Quiénes somos?
+Formamos profesionales en artes gráficas con metodologías innovadoras, 
+acceso a tecnología de punta y un enfoque en el saber-hacer más que en la memorización. 
+Preparamos ciudadanos críticos, solidarios y emprendedores, alineados con las tendencias del sector 
+y las necesidades reales de la industria gráfica colombiana.
+
+Misión
+El SENA invierte en el desarrollo social y técnico de los trabajadores colombianos, 
+ofreciendo formación profesional integral 
+que impulsa su incorporación en actividades productivas para el país.
+
+Visión
+Ser referente en la cualificación del talento humano a nivel nacional e internacional, 
+a través de la formación integral, el empleo, el emprendimiento 
+y el reconocimiento de saberes previos.
+
+
+FUENTE DE INFORMACION
+Se hace una introducción a la industria gráfica en Colombia, 
+resalta la importancia de los medios de registro impreso, aspectos históricos, geográficos 
+y papel del SENA en la industria gráfica. Se explica la formación impartida por el SENA a través del Centro nacional para la industria gráfica 
+y afines (Cenigraf), se destacan las etapas del proceso grafico (pre impresión, impresión, pos impresión), 
+descripción de los procesos paso a paso desarrollados dentro de cada etapa, 
+los programas de formación afines para los procesos gráficos 
+(Diseño gráfico, Diagramación y armada, edición electrónica y fotomecánica, Tipografía, serigrafía y offset, encuadernación y acabados).
+
+
+PROGRAMAS TECNOLGOS PRESENCIALES
+1. Animacion 3D
+    Codigo: 524703
+    Duracion: 27 meses
+    Estado: Inscripciones NO abiertas
+
+2. Desarrollo de medios gráficos visuales
+    Codigo: 522309
+    Duracion: 27 meses
+    Estado: Inscripciones NO abiertas
+
+3. Gestión de procesos de preprensa
+    Codigo: 922609
+    Duracion: 27 meses
+    Estado: Inscripciones NO abiertas
+
+4. Supervisión de procesos gráficos
+    Codigo: 922601
+    Duracion: 27 meses
+    Estado: Inscripciones NO abiertas
+
+5. Fotografía y procesos digitales	
+    Codigo: 522100	
+    Duracion: 27 meses
+    Estado: Inscripciones NO abiertas
+
+
+6. Animación digital	
+    Codigo:513601	
+    Duracion: 27 meses	
+    Estado: Inscripciones NO abiertas
+
+
+7. Análisis y desarrollo de software
+    Codigo: 228118	
+    Duracion: 27 meses	
+    Estado: Inscripciones NO abiertas
+
+
+8. Producción multimedia 
+    Codigo: 228101	
+    Duracion: 27 meses	
+    Estado: Inscripciones NO abiertas
+
+
+
+PROGRAMAS TECNOLGOS VIRTUALES
+1. Análisis y desarrollo de software
+    Codigo: 228118	
+    Duracion: 27 meses	
+    Estado: Inscripciones NO abiertas
+
+2. Animación 3D	
+    Codigo: 924118	
+    Duracion: 27 meses	
+    Estado: Inscripciones NO abiertas
+
+3. Animación digital
+    Codigo: 233101	
+    Duracion: 27 meses	
+    Estado: Inscripciones NO abiertas
+
+4. Desarrollo de medios gráficos visuales	
+    Codigo: 524704	
+    Meses: 27 meses	
+    Estado: Inscripciones NO abiertas
+5. Desarrollo publicitario	
+    Codigo: 124100	
+    Duracion: 27 meses	
+    Estado: Inscripciones NO abiertas
+
+
+6. Desarrollo multimedia y web
+    Codigo: 217320	
+    Duracion: 27 meses	
+    Estado: Inscripciones NO abiertas
+
+7. Desarrollo de videojuegos
+    Codigo: 228108	
+    Duracion: 27 meses	
+    Estado: Inscripciones NO abiertas
+
+8. Coordinación de procesos logísticos	
+    Codigo: 121523	
+    Duracion: 27 meses	
+    Estado: Inscripciones NO abiertas
+
+
+PROGRAMAS TECNICOS PRESENCIALES
+1. Preprensa digital	
+    Codigo: 937210	
+    Duracion: 15 meses	
+    Estado: Inscripciones NO abiertas
+
+2. Impresión offset	
+    Codigo: 924102	
+    Duracion: 15 meses	
+    Estado: Inscripciones NO abiertas
+
+3. Impresión flexográfica	
+    Codigo: 924103	
+    Duracion: 15 meses	
+    Estado: Inscripciones NO abiertas
+
+4. Impresión serigráfica	
+    Codigo: 924104	
+    Duracion: 15 meses	
+    Estado: Inscripciones NO abiertas
+
+5. Integración de contenidos digitales	
+    Codigo: 524704	
+    Duracion: 15 meses	
+    Estado: Inscripciones NO abiertas
+
+6. Programación de software	
+    Codigo: 233104	
+    Duracion: 15 meses	
+    Estado: Inscripciones NO abiertas
+7. Encuadernación y acabados	
+    Codigo: 924301	
+    Duracion: 15 meses	
+    Estado: Inscripciones NO abiertas
+
+8. Elaboración de audiovisuales	
+    Codigo: 924100	
+    Duracion: 15 meses	
+    Estado: Inscripciones NO abiertas
+
+9. Impresión digital	
+    Codigo: 233101	
+    Duracion: 15 meses	
+    Estado: Inscripciones NO abiertas
+10. Sistemas teleinformáticos
+    Codigo: 233108	
+    Duracion: 15 meses	
+    Estado: Inscripciones NO abiertas
+
+
+PROGRAMAS TECNICOS VIRTUALES
+1. Integración de contenidos digitales	
+    Codigo: 524704	
+    Duracion: 15 meses	
+    Estado: Inscripciones NO abiertas
+
+2. Operaciones de comercio exterior	
+    Codigo: 134600	
+    Duracion: 15 meses	
+    Estado: Inscripciones NO abiertas
+
+Preselección de talento humano	
+    Codigo:134206	
+    Duracion: 15 meses	
+    Estado: Inscripciones NO abiertas
+
+
+INFORMACION SOBRE LAS INSCRIPCIONES
+Portal de Inscripciones:
+https://betowa.sena.edu.co/
+
+
+INFORMACION DE CONTACTO PUBLICADA
+Información de contacto
+Línea principal
++601 546 1500  ·  596 0100 Ext. 15 463
+Atención telefónica
+Lunes a viernes 7:00 a.m. – 7:00 p.m. · Sábados 8:00 a.m. – 1:00 p.m.
+Atención al ciudadano y PQRS
+Bogotá +(57) 601 7366060
+Línea gratuita nacional
+018000 910270
+Dirección
+Cra. 32 #15 - 80, Bogotá D.C.
+
+INFORMACION SOBRE CONTRATO DE APRENDIZAJE
+
+INFORMACIÓN SOBRE EL CONTRATO DE APRENDIZAJE
+
+¿Qué es el contrato de aprendizaje?
+El contrato de aprendizaje es un contrato laboral especial y a término fijo mediante el cual un aprendiz desarrolla su formación teórica y práctica con el apoyo de una empresa patrocinadora. Su finalidad es facilitar el aprendizaje y permitir que la persona aplique los conocimientos adquiridos durante su formación.
+
+¿Para qué sirve el contrato de aprendizaje?
+Sirve para que el aprendiz fortalezca sus competencias, adquiera experiencia práctica relacionada con su programa de formación y desarrolle actividades propias de su área de estudio.
+
+¿Cuáles son las etapas del contrato de aprendizaje?
+La formación contempla una fase lectiva, en la que el aprendiz desarrolla sus conocimientos teóricos, y una fase práctica, en la que aplica esos conocimientos en un entorno de trabajo. La organización de las fases depende del programa y de la modalidad de formación.
+
+¿El contrato de aprendizaje tiene apoyo económico?
+Sí. La empresa patrocinadora debe reconocer un apoyo de sostenimiento mensual de acuerdo con la normativa vigente y la modalidad de formación.
+
+En la formación tradicional, el apoyo mínimo corresponde al 75 % de un salario mínimo legal mensual vigente durante la fase lectiva y al 100 % durante la fase práctica.
+
+En la formación dual, el apoyo mínimo corresponde al 75 % de un salario mínimo legal mensual vigente durante el primer año y al 100 % durante el segundo año.
+
+Para estudiantes universitarios vinculados mediante contrato de aprendizaje, el apoyo mínimo es equivalente a un salario mínimo legal mensual vigente, independientemente de que la formación sea dual o no.
+
+¿El aprendiz tiene seguridad social?
+Durante la fase lectiva, la empresa patrocinadora debe garantizar la cobertura en salud y riesgos laborales conforme a la normativa. Durante la fase práctica o toda la formación dual, se aplican las garantías de seguridad social y los derechos laborales que correspondan según la legislación vigente.
+
+¿Cuáles son los requisitos para realizar la etapa productiva mediante contrato de aprendizaje?
+El aprendiz debe estar matriculado en un programa de formación titulada del SENA, cumplir las condiciones académicas y los tiempos establecidos para la etapa productiva, y contar con la habilitación correspondiente en el sistema de gestión académica.
+
+¿Dónde puedo obtener más información sobre el contrato de aprendizaje?
+El aprendiz puede consultar los canales oficiales del SENA y solicitar orientación al responsable de etapa productiva de su centro de formación.
+
+
+
+INFORMACIÓN SOBRE LOS CURSOS COMPLEMENTARIOS DEL SENA
+
+¿Qué son los cursos complementarios?
+Son cursos de corta duración que permiten adquirir, actualizar o fortalecer conocimientos y competencias específicas para el ámbito personal o laboral.
+
+¿Para qué sirven los cursos complementarios?
+Permiten aprender nuevas habilidades, actualizar conocimientos y mejorar las competencias necesarias para desempeñarse en diferentes áreas laborales.
+
+¿Qué modalidades tienen los cursos complementarios?
+La oferta puede incluir formación virtual y presencial. La modalidad depende del curso disponible.
+
+¿Qué temas se pueden estudiar en cursos complementarios?
+La oferta puede incluir áreas como informática, herramientas digitales, servicio al cliente, idiomas, diseño, producción y transformación, entre otras. Los temas disponibles dependen de la oferta vigente.
+
+¿Cuánto duran los cursos complementarios?
+La duración depende de cada programa. Se debe consultar la ficha del curso para conocer las horas de formación, los requisitos y las condiciones de participación.
+
+¿Cómo puedo inscribirme a un curso complementario?
+El usuario debe ingresar al portal oficial de oferta educativa del SENA, buscar el curso de interés y revisar su disponibilidad, modalidad, requisitos y fechas de inscripción.
+
+¿Dónde puedo consultar los cursos complementarios disponibles?
+Se pueden consultar en el portal oficial de oferta educativa Betowa:
+https://betowa.sena.edu.co/oferta
+
+¿Todos los cursos complementarios están disponibles durante todo el año?
+No necesariamente. La oferta, los cupos y las fechas de inscripción pueden cambiar. Es importante consultar el portal oficial para comprobar qué cursos tienen inscripciones abiertas.
+
+¿Los cursos complementarios son iguales a los programas técnicos y tecnológicos?
+No. Los cursos complementarios se enfocan en desarrollar o actualizar competencias específicas. Los programas técnicos y tecnológicos corresponden a otros niveles de formación y tienen sus propios planes de estudio y requisitos.
+
+FUENTES OFICIALES
+
+Normativa sobre el contrato de aprendizaje:
+Decreto 223 de 2026 del Ministerio del Trabajo y artículo 21 de la Ley 2466 de 2025.
+
+Portal oficial de oferta educativa del SENA:
+https://betowa.sena.edu.co/oferta
